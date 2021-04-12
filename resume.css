@@ -52,7 +52,7 @@ header {
 
 section {
     display: flex;
-    justify-content: space-between;
+    justify-content: start;
     flex: 1;
 }
 
@@ -79,7 +79,7 @@ section {
 }
 
 .leftSection {
-    width: 65%;
+    width: 45%;
     padding-left: 10px;
 }
 

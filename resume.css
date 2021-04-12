@@ -52,7 +52,7 @@ header {
 
 section {
     display: flex;
-    justify-content: space-between;
+    justify-content: center;
     flex: 1;
 }
 
@@ -79,12 +79,12 @@ section {
 }
 
 .leftSection {
-    width: 45%;
+    width: 55%;
     padding-left: 10px;
 }
 
 .rightSection {
-    width: 45%;
+    width: 35%;
 }
 
 .profileImg {

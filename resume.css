@@ -52,7 +52,7 @@ header {
 
 section {
     display: flex;
-    justify-content: start;
+    justify-content: center;
     flex: 1;
 }
 

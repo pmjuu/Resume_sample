@@ -52,7 +52,7 @@ header {
 
 section {
     display: flex;
-    justify-content: space-between;
+    justify-content: start;
     flex: 1;
 }
 

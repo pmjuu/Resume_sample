@@ -1,2 +1,2 @@
 # This is sample Resume
-[resume](https://pmjuu.github.io/Resume/resume.html)
+[resume page](https://pmjuu.github.io/Resume/resume.html)
